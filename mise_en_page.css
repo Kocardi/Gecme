@@ -1,0 +1,141 @@
+/*mise en page*/
+
+/* Layout helpers
+----------------------------------*/
+#fade{
+	line-height:40px;
+}
+
+html {
+background-color: #8EA336;
+}
+
+#titre2 {
+color:#43500C;
+text-align:center;
+font-size: 150%;
+}
+
+.logo { 
+float : right; 
+margin: -32px 0 0;
+  }
+.logo2 {
+
+margin:-32px 0 0;
+}
+
+#fdv  {
+float:left;
+width:470px;
+background-color:#8EA336;
+}
+#fdw{
+margin-left:475px;
+background-color:#8EA336;
+}
+#decla{
+	line-height:2;
+}
+
+div#decla {
+width:98%;
+margin:0px;
+min-width:600px;
+max-width:2000px;
+/*width:auto;
+margin:auto;*/
+position:relative; /* pour servir de référence aux enfants positionnés absolument */}
+div#colonne1 {
+float: left;
+width: 40%;
+background: #8EA336;
+}
+
+div#colonnecentre {
+margin-left: 41%;
+background: #B7CD58;
+margin-right: 22%;
+}
+
+div#colonne2 {
+background: #8EA336;
+width:24%; /* largeur exemple */
+height:220px; /* hauteur exemple */
+position:absolute;
+top:0px; /* on part du haut... */
+right:-32px; /* ...et on fait sortir l'élément du conteneur en lui donnant une position négative */}
+
+
+/*div#colonne2 {
+float: right;
+width: 270px;
+background: #8EA336;
+margin-top: -400px;
+}*/
+
+/*div#colonne2 {
+float: right;
+width:270px; /* largeur exemple 
+height:200px; /* hauteur exemple
+position:relative;
+top:-436px; /* on part du haut... 
+right:-50px; /* ...et on fait sortir l'élément du conteneur en lui donnant une position négative }*/
+
+
+
+
+
+
+#image_fdv{
+/*position: relative;
+margin: 0px;
+padding: 0px;*/
+
+position:absolute;
+margin-left:15%;
+margin-top:0%;
+/*
+position:absolute;
+top:15%;
+left:38%;
+
+z-index:99;
+
+margin-left: 35%;
+margin-bottom: -160px;
+*/
+}
+#image_fdv_dec{
+position:absolute;
+margin-left:15%;
+margin-top:0%;
+}
+.logo22{
+margin-top: -34px;
+float: right;
+}
+#table_liste_balance{
+border:2px;
+}
+#image_liste_balance{
+width:60px;
+height:70px;
+}
+ul {
+list-style:none;
+margin-left:0;
+padding-left:0;
+}
+li {
+	list-style:none;
+margin-bottom:15px;/* à adapter */
+}
+
+/* couleur texte 
+#tablefdv{
+color:#B7CD58;
+}
+*/
+
+

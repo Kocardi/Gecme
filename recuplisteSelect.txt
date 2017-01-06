@@ -1,0 +1,15 @@
+<?php
+$sql = " SELECT raceanimal FROM Animal WHERE catanimal='chien' ";
+$result = mysql_query($sql) or die("Requete pas comprise");
+
+echo "<form action='ta_page.php' method='POST'>
+<table><tr><td>La race de l'animal
+<select name='raceanimal '>";
+while ($row=mysql_fetch_array($result))
+{
+echo"<option>$row[0]</option>";
+}
+echo"</select></td></tr>
+</table>
+</form>";
+?> 

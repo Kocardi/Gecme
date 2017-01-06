@@ -1,0 +1,83 @@
+/* ne pas imprimer les boutons */
+
+#impression{
+  display : none;
+}
+#impression_gtc{
+  display : none;
+}
+#imprim{
+  display : none;
+  }
+#retour{
+display:none;
+}
+#enregistrer{
+display:none;
+}
+/*ne pas imprimer accordion essai*/
+#ui-accordion{
+display:none;
+}
+div#titre2{
+display:none;
+}
+/* deplacer image fiche de vie pour impression */
+#image{
+height:170px;
+width:140px;
+position:absolute;
+left:250px;
+}
+#image_fdv{
+height:130px;
+width:100px;
+position:absolute;
+left : 50%;
+margin-left : -80px;
+margin-top:0%;
+}
+#image_fdv_dec{
+height:130px;
+width:100px;
+position:absolute;
+left : 50%;
+margin-left : -80px;
+margin-top:0%;
+}
+ .imprdate{
+display:center;}
+
+#tablefdv{
+width:100%;
+}
+#tablefdvde{
+width:100%;
+}
+
+
+
+/*reduire logo de fiche controle*/
+#logo3{
+margin-top:-10px;
+float:right;
+width:130;
+height:60;
+}
+hr{
+display:none;
+}
+#tete {
+text-align: left;
+}
+#photos{
+width:130;
+height:150;
+}
+#photost{
+width:70;
+height:80;
+}
+#tablet{
+font-size:30%;
+}

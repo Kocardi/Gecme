@@ -1,0 +1,329 @@
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','EXA','2','SILVER','9 914 914','EPICES','20/09/1999','20/09/1999','neuf','1g','0,5 g a 1,5 kg','II','OUI','25g a 1000g','Interne+Externe','6','2g','1','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','LOREME','40','PT 100','6F','Cuisson','01/06/1997','01/06/1997','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','LOREME','41','PT 100','NC','Cuisson','01/06/1997','01/06/1997','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 85°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','42','PT 100','4100G','Cuisson','-','-','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','46','PTC','902/T','Réception','07/07/1996','07/07/1996','neuf','-','(-40)°C a (+) 150°C','-','OUI','0°C a (+)5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','49','PTC','NC','DECORS','01/09/1999','01/09/1999','neuf','-','(-)30°C a (+) 30°C','-','OUI','0°C a (+)3°C','Interne','6','(+/-) 4°C','2','(+/-) 2°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','IMEF','52','PTC','EC-6-133','REF 4','01/11/1999','01/11/1999','neuf','-','(-)50 a (+)150°C','-','OUI','0°C a (+)3°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','IMEF','53','PTC','EC-6-133','REF 1','01/11/1998','01/11/1998','neuf','-','(-)50 a (+)150°C','-','OUI','0°C a (+)3°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','IMEF','54','PTC','EC-6-133','REF 3','01/11/1998','01/11/1998','neuf','-','(-)50 a (+)150°C','-','OUI','0°C a (+)3°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','IMEF','56','PTC','EC-6-133','REF 2','01/11/1998','01/11/1998','neuf','-','(-)50 a (+)150°C','-','OUI','0°C a (+)3°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','57','PTC','902/T','CIRCULATION','07/07/1996','07/07/1996','neuf','-','(-40)°C a (+) 150°C','-','OUI','(+)5°C a (+)8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','58','PTC','902/T','STOCK TERRINE','07/07/1996','07/07/1996','neuf','-','(-40)°C a (+) 150°C','-','OUI','0°C a (+)3°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','59','PTC','902/T','TAMPON 1','07/07/1996','07/07/1996','neuf','-','(-40)°C a (+) 150°C','-','OUI','(+)5°C a (+)8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','60','PTC','902/T','ETUYAGE','07/07/1996','07/07/1996','neuf','-','(-40)°C a (+) 150°C','-','OUI','(+)5°C a (+)8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','62','PTC','902/T','Expédition','07/07/1996','07/07/1996','neuf','-','(-40)°C a (+) 150°C','-','OUI','(+)5°C a (+)8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','80','PT 100','4100G','Cuisson','-','-','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 85°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','81','PT 100','4100G','Cuisson','-','-','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','82','PT 100','4100G','Cuisson','-','-','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 85°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','83','PTC','902/T','TRANCHAGE','07/07/1996','07/07/1996','neuf','-','(-)40°C a (+) 150°C','-','OUI','(+)5°C a (+)8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Horloge','IPO TECHNO','92','ONIX 17','B22070843','Cuisson','01/09/2008','03/03/2009','neuf','-','24h','-','OUI','24h','Interne','6','(+/-)1mn','1','(+/-)1mn','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','CROSSERON','109','B14','50049960','ETUVE','09/03/2001','12/03/2001','neuf','1°C','(-)40-(+)70°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','110','PT 100','THP 96','Cuisson','28/05/2001','29/05/2001','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','111','PT 100','THP 96','Cuisson','28/05/2001','29/05/2001','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 85°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','NC','117','DGA 32','2327','CUTTERAGE 1','18/04/2002','19/04/2002','neuf','-','(-)100°C a (+)600°C','-','OUI','(-)2°C a (+)15°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','120','PT 100','TAR 1859','DECORD','11/06/2002','11/06/2002','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 85°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','EXA','124','SILVER','9 966 472','Divers','27/06/2002','27/06/2002','neuf','1g','50 g a 15 kg','III','OUI','50 g a 15 kg','Interne+Externe','6','20g','2','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','132','PTC','902/T','Dosage','12/09/2002','18/09/2002','neuf','-','(-)40°C a (+) 150°C','-','OUI','(+)5°C a (+)8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','136','PT 100','4100G','Cuisson','-','-','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','137','PT 100','4100G','Cuisson','-','-','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 85°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','JUMO','138','IMAGO F-3000','217204025','Cuisson','17/09/2003','25/09/2003','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','JUMO','139','IMAGO F-3000','217204025','Cuisson','17/09/2003','25/09/2003','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 85°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','140','PTC','902/T','PREPARATION','25/09/2003','25/09/2003','neuf','-','(-)40°C a (+) 150°C','-','OUI','(+)5°C a (+)8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','ECOLOG','142','TH2','65254','R&D','01/01/2002','01/01/2002','neuf','0,1°C','(-)35°C a (+)85°C','-','OUI','(-)20°C a (+)75°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','JUMO D148','143','PT 100','951520/999-23','Rillettes','-','-','neuf','-','(-)100°C a (+)600°C','-','OUI','10°C a 100°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','144','FML','NRE 36877','Fabrication','03/08/2004','26/02/2009','neuf','0,1','0 a 999,9','-','OUI','3 a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','145','G32101111','986474','Réception','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','146','G32101111','986474','MATIERE 1ER','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C  5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','147','G32101111','986474','CUTTERAGE','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','5°C a 12°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','148','G32101111','930374','Dosage','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','5°C a 12°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','149','G32101111','986474','DECORS','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','150','G32101111','930344','CONGELE','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','(-)10°C a (-)25°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','151','G32101111','986474','REF','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','152','G32101111','986474','CIRCULATION','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','5°C a 12°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','153','G32101111','986474','Conditionnement','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','5°C a 12°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','154','G32101111','986474','TAMPON 1','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','155','G32101111','986474','TAMPON 2','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','156','G32101111','986474','ETUYAGE','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','5°C a 12°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','157','G32101111','986474','STOCK PF','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','158','G32101111','986474','Expédition','07/06/2004','11/09/2004','neuf','-','(-)50°C a (+)40°C','-','OUI','5°C a 12°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Horloge','DUPLINE','160','G38900014','655312','B-Q','07/06/2004','04/03/2009','neuf','-','24h','-','OUI','24h','Interne','6','(+/-)1mn','1','(+/-)1mn','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','EXA','161','SILVER','9 159 522','R&D','15/04/2005','21/04/2005','neuf','2g','40 g a 6 kg','III','OUI','500 g a 1,6 kg','Interne+Externe','6','15g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','199','PT 100','NC','Cuisson','04/09/2006','04/09/2006','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','200','PT 100','NC','Cuisson','04/09/2006','04/09/2006','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','JUMO','201','IMAGO F-3000','NC','Cuisson','04/09/2006','04/09/2006','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 85°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','202','PT 100','4100G','Cuisson','04/09/2006','04/09/2006','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','EXA','204','F-1000','9 165 374','VERRINES','17/11/2006','17/11/2006','neuf','1g','20 g a 3 kg','III','OUI','20 g a 800 g','Interne+Externe','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','EXA','205','F-1000','9 165 375','Divers','17/11/2006','17/11/2006','neuf','1g','20 g a 3 kg','III','OUI','230 g a 2 kg','Interne+Externe','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','TESTO','206','826-T1','31202181','Réception','09/01/2007','09/01/2007','neuf','0,1°C','(-)50-(+)300°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ASCON','210','J1','3700-0100','Rillettes','30/06/2009','30/06/2009','neuf','-','(-40)°C a (+) 150°C','-','OUI','5°C a 8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','METTLER','213','TOLEDO','BBA 425 35 M','R&D','01/12/2007','01/12/2007','neuf','1g','40 g a 6 kg','III','OUI','230 g a 2 kg','Interne','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('OxymÃ¨tre','DANSENSOR','214','PBI-200615','58086151','Qualité','09/04/2008','06/03/2009','neuf','0,1','0 a 100%','-','NON','0 a 30%','E','12','(+/-)1%','2','(+/-)0,5%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Analyseur','PBI DANSENSOR','214','checkpoint 02','58109056','prod','18/10/2012','18/10/2012','neuf','','','','','','','','','','','');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Minuteur','SALVA','215','SIROCCO','-','Cuisson','06/09/2007','05/03/2009','neuf','-','15mn','-','OUI','0 a 15mn','Interne','6','(+/-)2mn','1','(+/-)2mn','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','-','216','-','1310130500','Cuisson','06/09/2007','06/09/2007','neuf','-','(-40)°C a (+) 150°C','-','OUI','0°C a 250°C','E','6','(+/-) 2°C','2','(+/-) 2°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','METTLER','218','TOLEDO','3 037 292','P1 ','13/10/2008','15/10/2008','neuf','2g','40 g a 6 kg','III','OUI','25 g a 1,6 kg','Interne','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','EBRO','220','TFX 410','10407789','Cuisson','01/03/2009','12/02/2009','neuf','0,1°C','(-)50a(+)300°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','NC','223','DGA 32','2327','CUTTERAGE 2','10/07/2009','10/07/2009','neuf','-','(-)100°C a (+)600°C','-','OUI','(-)2°C a (+)15°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','SEYDELMANN','224','INTERNE','CUTTER 2','Fabrication','10/07/2009','01/03/2009','neuf','0,1','0 a 999,9','-','OUI','3 a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','225','FML','NRE 48040','Fabrication','12/12/2008','27/02/2009','neuf','0,1','0 a 999,9','-','OUI','3 a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','227','G32101111','986474','STOCK PF bis','06/06/2009','06/06/2009','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','228','G32101111','986474','Dosage bis','06/06/2009','06/06/2009','neuf','-','(-)50°C a (+)40°C','-','OUI','5°C a 12°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','229','G32101111','986474','MATIERE 1ERE bis ','06/06/2009','06/06/2009','neuf','-','(-)50°C a (+)40°C','-','OUI','(-)10°C a (-)25°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','230','FMC','NR 49131','Fabrication','18/09/2009','02/03/2009','neuf','0,1','0 a 999,9','-','OUI','3 a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','EBRO','231','TFX 410','15003566','Divers','01/05/2009','15/02/2009','neuf','0,1°C','(-)50 a (+)300°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('DÃ©tecteur de fuite','TESTO','233','testo 316,4','031209-01','MTN','03/12/2009','09/03/2009','neuf','0,1','0 a 100%','-','NON','0 a 100%','E','12','(+/-)1%','2','(+/-)0,5%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','B3C','234','SERENITE','9260,15,0017','R&D','15/12/2009','28/12/2009','neuf','2g','50 g a 15 kg','III','OUI','50 g a 15 kg','Interne','6','20g','2','(+/-)10g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','235','PTC','NC','Créme','01/09/1999','01/09/1999','neuf','-','(-30)°C a (+) 30°C','-','OUI','0°C a  5°C','Interne','6','(+/-) 2°C','2','(+/-) 2°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','236','PT 100','NC','Cuisson','24/02/2010','24/02/2010','neuf','-','(-)100°C a (+)600°C','-','OUI','150°C a 250°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','TECHNOLOGIC','237','PT 100','NC','Cuisson','24/02/2010','24/02/2010','neuf','-','(-)100°C a (+)600°C','-','OUI','150°C a 250°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('OxymÃ¨tre','DANSENSOR','240','PBI-200615','58109056','Qualité','01/07/2010','30/07/2010','neuf','0,1','0 a 100%','-','NON','0 à 30%','E','12','(+/-)1%','2','(+/-)0,5%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Analyseur','PBI DANSENSOR','240','checkpoint 02','58086151','MTN','01/07/2010','01/07/2010','neuf','','','','','','','','','','','');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','METTLER','242','TOLEDO','3 184 675','P1','01/12/2010','01/12/2010','neuf','2g','40 g a 6 kg','III','OUI','25 g a 1,6 kg','Interne','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','NC','243','NC','NC','Caisson 2','01/11/2010','01/11/2010','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','TOMKEY','245','AES','1131628','Qualité','01/02/2011','24/02/2011','neuf','0,1','(-)40-(+)80°C','-','NON','(-)40°C a (+)80°C','E','6','(+/-) 1°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','EBRO','246','TFX 410','15048438','Divers','01/03/2011','25/03/2011','neuf','0,1°C','(-)50-(+)300°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('DÃ©tecteur de mÃ©taux','THS','247','PL-63','20800211005','MTN','01/04/2011','01/04/2011','neuf','-','0 OU 1','-','NON','0 OU 1','Interne+Externe','12','(+/-)1%','2','(+/-)1%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('DÃ©tecteur de mÃ©taux','THS','248','CEIA 21-E','21100210022','MTN','01/04/2011','01/04/2011','neuf','-','0 OU 1','-','NON','0 OU 1','Interne+Externe','12','(+/-)1%','2','(+/-)1%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur ','-','251','PTC','NC','CONGELE','NC','NC','neuf','-','(-)30°C a (+) 30°C','-','OUI','(-)25°C a (+)18°C','Interne','6','(+/-) 4°C','2','(+/-) 2°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','EXA','253','ENERGY','F0001266','Divers','23/05/2011','23/05/2011','neuf','2g','40 g a 6 kg','III','OUI','800 g a 5 kg','Interne+Externe','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('AnOxymÃ¨tre','industrial scientific','255','gasbadge ','110426t 02402','Prod','01/07/2010','30/08/2010','neuf','0,1','0 a 100%','-','NON','19,5 a 23,5%','E','12','(+/-)1%','2','(+/-)0,5%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','bizerba','256','ST','45 719 011 000','Epices','01/06/2011','07/07/2011','neuf','1g','50 g a 15 kg','III','OUI','20 g a 15 kg','Interne','6','20g','2','(+/-)10g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('DÃ©tecteur de mÃ©taux','bizerba','257','CWE','md10707927','MTN','01/06/2011','01/06/2011','neuf','-','0 OU 1','-','NON','0 OU 1','Interne+Externe','12','(+/-)1%','2','(+/-)1%','');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','BIZERBA','258','CWE3000','10 735 815','P2','01/06/2011','01/06/2011','neuf','2g','20 g a 3 kg','III','OUI','100 g a 1,6 kg','Interne+Externe','6','15g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','ACFRI','260','-','-','refroidissement','01/09/2011','07/10/2011','neuf','-','(-)50°C a (+)40°C','-','OUI','(-)50°C a (+)40°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','ACFRI','261','-','-','refroidissement','01/09/2011','07/10/2011','neuf','-','(-)50°C a (+)40°C','','OUI','(-)50°C a (+)40°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('AnOxymÃ¨tre','industrial scientific','270','gasbadge ','11061j2-02402','MTN','03/11/2011','03/11/2011','neuf','0,1','0 a 100%','-','NON','19,5 a 23,5%','E','12','(+/-)1%','2','(+/-)0,5%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','FLASHFOOD','271','JULES RICHARD','11450202','prod','02/11/2011','02/11/2011','neuf','0,1°C','(-)55°C a (+)350°C','-','OUI','(-)50°C a (+)70°C','Interne','12','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','DIGI','272','DS-673SS','11 313 839','Dosage','06/12/2011','06/12/2011','neuf','1g','20 g a 3 kg','III','OUI','25 g a 1,6 kg','Interne+Externe','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','DIGI','273','DS-673SS','11 313 836','Dosage','06/12/2011','06/12/2011','neuf','1g','20 g a 3 kg','III','OUI','25 g a 1,6 kg','Interne+Externe','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','274','FMC 100','NR E52437','Fabrication','25/11/2011','06/12/2011','neuf','0,1','0 a 999,9','-','OUI','3g a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','EXA','275','epelsa','F0003598','Epices','31/01/2012','31/01/2012','neuf','2g','50 g a 15 kg','III','OUI','50 g a 15 kg','Interne','6','20g','2','(+/-)10g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','DIGI','276','DS-673SS','12 300 560','Dosage','31/01/2012','31/01/2012','neuf','1g','20 g a 3 kg','III','OUI','25 g a 1,6 kg','Interne+Externe','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','FLASHFOOD','277','JULES RICHARD','E1042031497','R&D','10/02/2012','10/02/2012','neuf','0,1°C','(-)55°C a (+)350°C','-','OUI','(-)50°C a (+)70°C','Interne','12','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','OHAUS','280','V31XH402','7 131 290 741','R&D','17/02/2012','08/03/2012','neuf','0,01g','1 g a 400 g','-','OUI','??  1 g a 400 g','Interne','6','?','?','??','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','TESTO','281','','5601113','Réception','11/07/2012','11/07/2012','neuf','0,1°C','(-)20°C a (+) 230°C','-','','','','','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ASCON','282','J1','3700-0100','Rillettes','30/06/2009','30/06/2009','neuf','-','(-40)°C a (+) 150°C','-','OUI','(+)5°C a (+)8°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','FLASHFOOD','283','JULES RICHARD','E1032037497','','11/07/2012','11/07/2012','neuf','0,1°C','(-)55°C a (+)350°C','-','OUI','(-)50°C a (+)70°C','Interne','12','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Sartorius','284','LA2200-0CEQ iso-test (BD BF)','28007558','Fours','19/09/2012','21/09/2012','neuf','0,1g','5 g a 2,2 kg','II','OUI','','Interne+Externe','6','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Sartorius','285','LA2200-0CEQ iso-test (BD BF)','28007559','Tranchage','19/09/2012','21/09/2012','neuf','0,1g','5 g a 2,2 kg','II','OUI','','Interne+Externe','6','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('AnOxymÃ¨tre','industrial scientific','286','gasbadge ','1210253-002 02','Prod','15/10/2012','18/10/2012','neuf','0,1','0 a 100%','-','NON','19,5 a 23,5%','E','12','(+/-)1%','2','(+/-)0,5%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('AnOxymÃ¨tre','industrial scientific','287','gasbadge ','1210253-001 02','MTN','15/10/2012','18/10/2012','neuf','0,1','0 a 100%','-','NON','19,5 a 23,5%','E','12','(+/-)1%','2','(+/-)0,5%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','Eliwell','288','PTC','IC16C00TCD700','REF 3','18/10/2012','18/10/2012','neuf','-','(-)50 a (+)150°C','-','OUI','(-)50°C a (+)140°C','Interne','6','(+/-) 2°C','','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','EBRO','289','TFX 410-1','15103382','','05/11/2012','13/11/2012','neuf','0,1°C','(-)50 a (+)300°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','EBRO','290','TFX 410-1','15103344','','05/11/2012','13/11/2012','neuf','0,1°C','(-)50 a (+)300°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','DIGI','291','DS-673SS','12 619 980','Dosage','22/02/2013','22/02/2013','neuf','1g','20 g a 3 kg','III','OUI','25 g a 1,6 kg','Interne+Externe','6','12g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','Carrier','293','Logicold','-','Bungalo Exterieur','-','-','neuf','-','-','-','OUI','-','Interne','6','-','-','-','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','ECOLOG','294','TN2','90567','R&D','13/03/2013','18/03/2013','neuf','0,1°C','(-)35°C-(+)85°C','-','OUI','(-)20°C a (+)75°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('AnOxymÃ¨tre','industrial scientific','295','gasbadge plus','13020RK-002 02','MTN','13/03/2013','22/03/2013','neuf','0,1','0 a 100%','-','NON','19,5 a 23,5%','E','12','(+/-)1%','2','(+/-)0,5%','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','Stil','296','thermocouple','date fab 10/2011','','08/04/2013','11/04/2013','neuf','0,1°C','(-)200°C a (+)1370°C','-','OUI','-','Interne','6','-','-','-','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','Stil','297','thermocouple','date fab 10/2011','','08/04/2013','11/04/2013','neuf','0,1°C','(-)200°C a (+)1370°C','-','OUI','-','Interne','6','-','-','-','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Mettler Toledo','298','ICS 425-1','B315210241','','19/04/2013','23/04/2013','neuf','1 gr','','','OUI','20 g a 3 kg','Interne','6','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Mettler Toledo','299','ICS 425-1','B315210237','','19/04/2013','23/04/2013','neuf','0,5 gr','','','OUI','20 g a 3 kg','Interne','6','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Mettler Toledo','300','ICS 425-1','B315210238','','19/04/2013','23/04/2013','neuf','0,5 gr','','','OUI','20 g a 3 kg','Interne','6','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Mettler Toledo','301','ICS 425-1','B315210240','Dosage','19/04/2013','23/04/2013','neuf','0,5 gr','','','OUI','20 g a 3 kg','Interne','6','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Mettler Toledo','302','ICS 425-1','B315210242','','19/04/2013','23/04/2013','neuf','0,5 gr','','','OUI','20 g a 3 kg','Interne','6','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','Prosensor','303','SAPC51508FL3','056909/10','Cuisson','02/02/2013','26/04/2013','neuf','-','(-)100°C a (+)600°C','-','OUI','70°C a 80°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','Ascon Tecnologic','304','M3-5100-0000','TAR 1859','DECORD','28/09/2013','28/09/2013','neuf','-','-','-','OUI','','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','305','FMJ','N 52573','Fabrication','01/01/2013','07/10/2013','neuf','0,1','0 a 999,9','-','OUI','3gr a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','DUPLINE','306','G32101111','mn 320190087','TAMPON 1','10/10/2013','17/10/2013','neuf','-','(-)50°C a (+)40°C','-','OUI','0°C a 5°C','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','307','FMC','N RE 56027','Fabrication','24/10/2013','24/10/2013','neuf','0,1','0 a 999,9','-','OUI','3 a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','308','FMC','N RE 56028','Fabrication','24/10/2013','24/10/2013','neuf','0,1','0 a 999,9','-','OUI','3 a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','309','FMC','','Fabrication','06/12/2013','06/12/2013','neuf','0,1','0 a 999,9','-','OUI','3 a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','OHAUS','310','FD6','B333668902','R&D','20/01/2014','20/01/2014','neuf','2g','40 g a 6 kg','-','OUI','6 kg a 40 g','Interne','6','?','?','??','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Afficheur','ELIWELL','311','DR4020   ptc','E4D12W00BH711','Rillettes','12/02/2014','12/02/2014','neuf','0,1°C','-55°C a + 150°C','-','OUI','(+)5°C a (+)8°c','Interne','6','(+/-) 2°C','2','(+/-) 1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Analyseur','Crowcon','312','CC-O','COSD482023','MTN','13/02/2014','14/02/2014','neuf','','','','','','','','','','','');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Analyseur','Crowcon','313','CC-O','COSD482209','','13/02/2014','14/02/2014','neuf','','','','','','','','','','','');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Sonde de tempÃ©rature','Tomprobe','314','MD31011','d800000021e87841','Qualité','','','neuf','-','(-)0°C a (+)125°C','-','','','','','','','','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Systech Gmbh Bergheim','315','IT 1000','','Dosage','','21/07/2014','neuf','1g','20 g a 3kg','III','OUI','','','6','','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Systech Gmbh Bergheim','316','IT 1000','104 402','Dosage','','21/07/2014','neuf','1g','20 g a 3kg','III','OUI','','','6','','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Systech Gmbh Bergheim','317','IT 1000','','Dosage','','21/07/2014','neuf','1g','20 g a 3kg','III','OUI','','','6','','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Systech Gmbh Bergheim','318','IT 1000','','Dosage','','21/07/2014','neuf','1g','g a 3kg','III','OUI','','','6','','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Systech Gmbh Bergheim','319','IT 1000','','Dosage','','21/07/2014','neuf','1g','20 g a 3kg','III','OUI','','','6','','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Rice Lake Weighing Systems','321','CW801-2B','B08392','Divers','','18/09/2014','neuf','1g','g a 3kg','III','OUI','','','6','','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Rice Lake Weighing Systems','322','CW801-2B','1 338 100 059','Divers','','18/09/2014','neuf','1g','20 g a 3kg','III','OUI','','','6','','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Sartorius','323','FC 12CCE-IOCEQ','26 704 864','','','18/09/2014','neuf','0,5g','25 g a 12 kg','II','OUI','50 g a 12 kg','Interne','6','20g','2','(+/-)10g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Sartorius','324','FC 12CCE-IOCEQ','14 206 008','','','18/09/2014','neuf','0,5g','25 g a 12 kg','II','OUI','50 g a 12 kg','Interne','6','20g','2','(+/-)10g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','EBRO','325','TFX 410','15162593','','22/09/2014','23/09/2014','neuf','0,1°C','(-)50 a (+)300°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','EBRO','326','TFX 410','15162600','','22/09/2014','23/09/2014','neuf','0,1°C','(-)50 a (+)300°C','-','OUI','0°C a 100°C','Interne','6','(+/-) 1°C','10','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Sartorius','327','FC 12CCE-IOCEQ','13 107 941','P2','27/10/2014','04/11/2014','neuf','0,5g','25 g a 12 kg','II','OUI','50 g a 12 kg','Interne','6','20g','2','(+/-)10g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Sartorius','328','FC 12CCE-IOCEQ','13 806 752','P2','27/10/2014','04/11/2014','neuf','0,5g','25 g a 12 kg','II','OUI','50 g a 12 kg','Interne','6','20g','2','(+/-)10g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Compteur','FLUX','329','FMC','57443','Fabrication','17/11/2014','17/11/2014','neuf','0,1','0 a 999,9','-','OUI','3 a 40 kg','Interne','6','0,5kg','2','(+/-)0,25kg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','ESPERA','116 pln','ES-300','17 013 027','Expédition','15/01/2002','15/01/2002','neuf','1g','40 g a 12 kg','III','OUI','800 g a 5 kg','Interne+Externe','6','15g','3','(+/-)2g','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','DELTA OHM','278','ETALON 1 HD','HD2307.0 RTD9000414','B-Q','28/07/2008','11/02/2009','neuf','0,1°C','(-)50°C a (+)400°C','-','OUI','(-)50°C a (+)200°C','E','12','(+/-) 0,5°C','5','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','DELTA OHM','279','ETALON 2 HD','HD2307.0 RTD','B-Q','01/07/2010','30/07/2010','neuf','0,1°C','(-)50°C a (+)400°C','-','OUI','(-)50°C a (+)200°C','E','12','(+/-) 0,5°C','5','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('ThermomÃ¨tre','DELTA OHM','320','ETALON HD 2307','14008924','B-Q','21/07/2014','24/07/2014','neuf','0,1°C','(-)50°C a (+)400°C','-','OUI','(-)50°C a (+)200°C','E','12','(+/-) 0,5°C','5','(+/-) 0,1°C','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','ZWIEBEL','KC1','E22KC1','KC1','B-Q','05/04/2000','18/02/2009','neuf','6000','1kg','II','NON','1kg','E','12','(+/-) 0,5g','2','(+/-) 250mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','ZWIEBEL','KC2','E22KC2','KC2','B-Q','05/04/2000','19/02/2009','neuf','6000','50g','II','NON','50g','E','12','(+/-) 0,5g','2','(+/-) 250mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','ZWIEBEL','KC3','E22KC3','KC3','B-Q','05/04/2000','20/02/2009','neuf','6000','100g','II','NON','100g','E','12','(+/-) 0,5g','2','(+/-) 250mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','ZWIEBEL','KC4','E22KC4','KC4','B-Q','05/04/2000','21/02/2009','neuf','6000','500g','II','NON','500g','E','12','(+/-) 0,5g','2','(+/-) 250mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','ZWIEBEL','KC5','E22KC5','-','B-Q','05/04/2000','22/02/2009','neuf','6000','200g','II','NON','200g','E','12','(+/-) 0,5g','2','(+/-) 250mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','ZWIEBEL','KC6','E22KC6','KC6','B-Q','05/04/2000','23/02/2009','neuf','6000','200g','II','NON','200g','E','12','(+/-) 0,5g','2','(+/-) 250mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','ZWIEBEL','KC7','E22KC7','KC7','B-Q','05/04/2000','24/02/2009','neuf','6000','2kg','II','NON','2kg','E','12','(+/-) 1g','2','(+/-) 500mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','ZWIEBEL','KC8','E22KC8','KC8','B-Q','05/04/2000','25/02/2009','neuf','6000','5kg','II','NON','5kg','E','12','(+/-) 5g','5','(+/-) 1000mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Masse','DKD','M','M1','M','MTN','15/07/2010','30/07/2010','neuf','6000','1kg','Interne','NON','1kg','E','12','(+/-) 0,5g','2','(+/-) 250mg','ICCMTN002');
+
+INSERT INTO liste (`design`,`marq`,`ident`,`type`,`ref`,`affec`,`datepicker`,`datepicker2`,`etat`,`reso`,`etend`,`preci`,`etal`,`plage`,`etal2`,`period`,`tole`,`coef`,`erreur`,`proced`) VALUES ('Balance','Rice Lake Weighing Systems','330','CW801-2B','1 328 100 055','Divers','14/11/2014','17/11/2014','neuf','1g','20 g a 3 kg','III','OUI','','','6','','3','(+/-)2g','ICCMTN002');

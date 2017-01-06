@@ -1,0 +1,7 @@
+
+
+
+
+
+Toutes les images doivent être enregistrer dans le répertoire "images" et être au format .jpg
+

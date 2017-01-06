@@ -1,0 +1,15 @@
+fonctionnement OK
+
+
+create table liste(
+id INT (5)not null auto_increment,
+design varchar(35) not null,
+marq varchar(35) not null,
+ident INT (6)not null,
+type varchar(35) not null,
+ref varchar(35) not null,
+affec varchar(35) not null,
+datepicker text not null,
+datepicker2 text not null,
+etat varchar (10) not null,
+PRIMARY KEY(ID),INDEX (id),UNIQUE (id))
