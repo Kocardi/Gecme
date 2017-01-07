@@ -2,7 +2,7 @@
 
 <?php
 //connection:
-$link = mysql_connect("localhost","root","KNEuc29") or die("Error " . mysql_error($link));
+$link = mysql_connect("localhost","root","motdepasse") or die("Error " . mysql_error($link));
 
 //consultation:
 
@@ -16,7 +16,7 @@ if (mysql_query($sql, $link)) {
 }
 
 
-$connection = mysql_connect("localhost","root","KNEuc29"); 
+$connection = mysql_connect("localhost","root","motdepasse"); 
   if ( ! $connection ) 
   die ("connection impossible"); 
   $mabasededonnee="ecme"; 
