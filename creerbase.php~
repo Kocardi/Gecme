@@ -1,5 +1,5 @@
 <!-- creation base de données et tables il suffit de taper l'adresse localhost/ecme/creerbase.php-->
-
+<!-- pour un essai-->
 <?php
 //connection:
 $link = mysql_connect("localhost","root","motdepasse") or die("Error " . mysql_error($link));
